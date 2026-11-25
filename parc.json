@@ -1,0 +1,65 @@
+[
+  {
+    "immatriculation": "BJ-1234-A",
+    "marque": "Toyota",
+    "modele": "Corolla",
+    "annee": 2018,
+    "carburant": "essence",
+    "prixJour": 25000,
+    "etat": "disponible"
+  },
+  {
+    "immatriculation": "BJ-2210-B",
+    "marque": "Toyota",
+    "modele": "Hilux",
+    "annee": 2021,
+    "carburant": "diesel",
+    "prixJour": 45000,
+    "etat": "louee"
+  },
+  {
+    "immatriculation": "BJ-3345-C",
+    "marque": "Hyundai",
+    "modele": "Accent",
+    "annee": 2015,
+    "carburant": "essence",
+    "prixJour": 18000,
+    "etat": "disponible"
+  },
+  {
+    "immatriculation": "BJ-4512-D",
+    "marque": "Peugeot",
+    "modele": "301",
+    "annee": 2012,
+    "carburant": "diesel",
+    "prixJour": 15000,
+    "etat": "en_reparation"
+  },
+  {
+    "immatriculation": "BJ-5678-E",
+    "marque": "BYD",
+    "modele": "Dolphin",
+    "annee": 2024,
+    "carburant": "electrique",
+    "prixJour": 40000,
+    "etat": "disponible"
+  },
+  {
+    "immatriculation": "BJ-6001-F",
+    "marque": "Kia",
+    "modele": "Picanto",
+    "annee": 2019,
+    "carburant": "gasoil",
+    "prixJour": 12000,
+    "etat": "disponible"
+  },
+  {
+    "immatriculation": "BJ-7002-G",
+    "marque": "Nissan",
+    "modele": "Sunny",
+    "annee": 2016,
+    "carburant": "essence",
+    "prixJour": "vingt mille",
+    "etat": "disponible"
+  }
+]
